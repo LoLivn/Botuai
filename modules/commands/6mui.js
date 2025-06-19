@@ -2,7 +2,7 @@ module.exports.config = {
   name: "6mui",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Vtuan",
+  credits: "Longdz",
   description: "Xem ảnh",
   commandCategory: "Random-img",
   usages: "",
