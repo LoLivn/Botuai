@@ -6,20 +6,22 @@
         "status": true,
         "icon": ""
     },
-    "notiGroup": false,
+    "notiGroup": true,
     "NOTIFICATION": true,
     "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "BOTNAME": "",
-    "AMDIN_NAME": "",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": "",
+    "BOTNAME": "botngu",
+    "AMDIN_NAME": "bạch long",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/profile.php?id=100089643747218",
+    "PREFIX": "/",
     "ADMINBOT": [
-        ""
+        "61575712850274",
+        "100089643747218"
     ],
     "NDH": [
-        ""
+        "61575712850274",
+        "100089643747218"
     ],
     "DATABASE": {
         "sqlite": {
