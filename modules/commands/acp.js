@@ -2,7 +2,7 @@ module.exports.config = {
   name: "acp",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "NTKhang",
+  credits: "longdz",
   description: "Kết bạn qua id Facebook",
   commandCategory: "Hệ Thống",
   usages: "accept",
