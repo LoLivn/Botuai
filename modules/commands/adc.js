@@ -2,7 +2,7 @@ module.exports.config = {
   name: "adc",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "D-Jukie",
+  credits: "longdz",
   description: "Áp dụng code từ buildtooldev và pastebin và github",
   commandCategory: "Hệ Thống",
   usages: "Thành viên không được dùng,đừng có mà tò mò",
